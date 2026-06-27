@@ -1,5 +1,4 @@
-
-
+```markdown
 # Hi there 👋, I'm Supreet Sareen
 
 ## 🚀 AI Engineer | Python Developer
@@ -23,6 +22,8 @@ I am an AI Engineer with experience in building intelligent applications using P
 - 🗄️ SQL
 - 📊 TensorFlow
 - 📈 Scikit-learn
+- 🐳 Docker
+- 🌿 Git
 
 ---
 
@@ -33,27 +34,34 @@ I am an AI Engineer with experience in building intelligent applications using P
 - AI Automation
 - Multi-Agent Systems
 - Cloud AI Deployment
+- AWS Data Engineering
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Sign Language Translator
-Converts sign language into text and voice using Deep Learning.
+Developed an AI-powered application that converts sign language into text and speech using Deep Learning and Computer Vision techniques.
 
 ### 🔹 AI Chat Applications
-Built LLM-powered applications using LangChain and Generative AI.
+Built LLM-powered conversational AI applications using LangChain, Retrieval-Augmented Generation (RAG), and Generative AI.
+
+### 🔹 AWS ETL Pipeline (Glue + Redshift)
+Designed and implemented a cloud-based ETL pipeline using **AWS Glue**, **Amazon Redshift**, **Amazon S3**, and **IAM**. Automated data extraction, transformation, and loading into a Redshift data warehouse for analytics.
+
+**Tech Stack:** AWS Glue, Amazon Redshift, Amazon S3, IAM, Python, SQL
 
 ### 🔹 Sustainable Lifestyle Rating Analysis
-Machine Learning project for analyzing sustainability ratings.
+Performed data preprocessing, visualization, and Machine Learning model development to analyze and predict sustainable lifestyle ratings.
 
 ---
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/supreet-sareen-571761226
-- Email: supreetsareen29@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/supreet-sareen-571761226
+- 📧 Email: supreetsareen29@gmail.com
 
 ---
 
-⭐ Always learning and building AI-powered solutions.
+⭐ Passionate about building AI-powered and cloud-native solutions with Generative AI, LLMs, MLOps, and AWS.
+```
