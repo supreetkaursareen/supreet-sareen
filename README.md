@@ -19,6 +19,8 @@ I am an AI Engineer with experience in building intelligent applications using P
 - ⚙️ MLOps
 - ☁️ AWS
 - ☁️ Azure
+- 🏗️ Data Warehousing
+- 🔄 ETL Pipelines
 - 🗄️ SQL
 - 📊 TensorFlow
 - 📈 Scikit-learn
