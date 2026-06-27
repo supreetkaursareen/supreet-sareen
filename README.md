@@ -1,4 +1,4 @@
-```markdown
+
 # Hi there 👋, I'm Supreet Sareen
 
 ## 🚀 AI Engineer | Python Developer
